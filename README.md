@@ -143,7 +143,7 @@ utility_meter:
  ```
 
 ## Monitoring latest Ferroamp version
-If you are tired of manually verifying if there is any new version available from ferroamp, then you can configure this scraper and also using the provided automation to get notifications when ferroamp releases a new version.
+If you are tired of manually verifying if there is any new version available for your ferroamp hub, then you can configure this scraper and also using the provided automation to get notifications when ferroamp releases a new version.
 ```
 scrape:
   - resource: https://support.ferroamp.com/sv-SE/support/solutions/47000522529
